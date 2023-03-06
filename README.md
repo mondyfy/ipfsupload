@@ -28,3 +28,12 @@ cp .env.example .env
 ```bash
 npm run start
 ```
+
+## Folder Structure
+- server
+    - controllers
+    - routes
+    - temp
+    - index.js
+- .env
+- package.json

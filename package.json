@@ -1,7 +1,7 @@
 {
   "name": "ipfsupload",
   "version": "1.0.0",
-  "description": "",
+  "description": "IPFS file upload in NodeJs",
   "main": "index.js",
   "type": "module",
   "scripts": {
